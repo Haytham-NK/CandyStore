@@ -1,0 +1,11 @@
+C:\Users\Nikit\source\repos\CStore\CStore\obj\Debug\CStore.csprojAssemblyReference.cache
+C:\Users\Nikit\source\repos\CStore\CStore\obj\Debug\CStore.Form1.resources
+C:\Users\Nikit\source\repos\CStore\CStore\obj\Debug\CStore.Form2.resources
+C:\Users\Nikit\source\repos\CStore\CStore\obj\Debug\CStore.Properties.Resources.resources
+C:\Users\Nikit\source\repos\CStore\CStore\obj\Debug\CStore.csproj.GenerateResource.cache
+C:\Users\Nikit\source\repos\CStore\CStore\obj\Debug\CStore.csproj.CoreCompileInputs.cache
+C:\Users\Nikit\source\repos\CStore\CStore\obj\Debug\CStore.Authorization.resources
+C:\Users\Nikit\source\repos\CStore\CStore\obj\Debug\CStore.Menu.resources
+C:\Users\Nikit\source\repos\CStore\CStore\obj\Debug\CStore.Clients.resources
+C:\Users\Nikit\source\repos\CStore\CStore\obj\Debug\CStore.Products.resources
+C:\Users\Nikit\source\repos\CStore\CStore\obj\Debug\CStore.Workers.resources
